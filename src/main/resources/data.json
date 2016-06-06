@@ -1,0 +1,25 @@
+{
+  "metaData" : {
+    "org": "td",
+    "channel": "web",
+    "product" : "credit-cards"
+  },
+  "appData": {
+    "appId": "es&o",
+    "name": "dee",
+    "address": {
+      "street": "simcoe",
+      "city": "toronto"
+    },
+    "employmentHistory": [
+      {
+        "org":"cts",
+        "city":"chennai"
+      },
+      {
+        "org":"tibco",
+        "city":"pune"
+      }
+    ]
+  }
+}
